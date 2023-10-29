@@ -1,0 +1,9 @@
+.estrellas{
+    background: #0B223C url("../images/stars.png") repeat;
+    animation: mover-estrellas 50s linear infinite;
+}
+
+@keyframes mover-estrellas{
+    from{background-position: 0 0;}
+    to{background-position: 100vw 0;}
+}
