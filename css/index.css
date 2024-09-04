@@ -125,7 +125,7 @@ input[type="submit"]:hover {
     }
 
     .animation {
-        display: flex;
+        display: block;
         justify-content: center;
         font-size: 3vw; /* Set your desired font size */
         color: #FFFFFF; /* Set the text color to white */
